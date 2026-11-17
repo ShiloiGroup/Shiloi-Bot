@@ -1,15 +1,8 @@
-<div align="center">
-  <img
-    src="https://shiloigroup.github.io/Shiloi-Bot/assets/logo.png"
-    alt="Shiloi Bot Logo"
-    width="200"
-  />
-  <h1>SHILOÏ BOT</h1>
-  <h2>Terms of Service</h2>
-</div>
-
-**Last updated: November 17, 2026**
-
+---
+layout: default
+title: Terms of Service
+last_updated: November 17, 2026
+---
 By adding, using, or interacting with the **Shiloï Bot** Discord bot, you agree to these Terms of Service.
 
 ## 1. Service Overview
@@ -49,19 +42,13 @@ Shiloï Bot may process certain information necessary for its operation, includi
 
 This information is used to provide, maintain, and improve the bot's features.
 
-Data must not be used for abusive purposes or purposes unrelated to the service.
-
-For questions or requests concerning personal data, please contact the Shiloï Bot team.
+For questions or requests concerning personal data, please contact the Shiloï Group team.
 
 ## 4. Service Availability
 
 Shiloï Bot is provided free of charge unless otherwise stated.
 
-We do not guarantee uninterrupted or continuous availability. Service interruptions may occur due to:
-- Maintenance.
-- Updates and improvements.
-- Technical or hosting issues.
-- Incidents affecting Discord or third-party services.
+We do not guarantee uninterrupted or continuous availability. Service interruptions may occur due to maintenance, updates, technical or hosting issues, or incidents affecting Discord and third-party services.
 
 Features may be modified, suspended, or discontinued without prior notice.
 
@@ -77,11 +64,7 @@ To the extent permitted by applicable law, the Shiloï Bot team shall not be hel
 
 ## 6. Suspension and Termination
 
-Access to Shiloï Bot may be suspended or restricted in the event of:
-- A violation of these Terms of Service.
-- Abusive or malicious use of the bot.
-- Attempts to compromise or disrupt the service.
-- Any behavior that may harm the bot, its infrastructure, or its users.
+Access to Shiloï Bot may be suspended or restricted in the event of a violation of these Terms, abusive or malicious use, attempts to compromise or disrupt the service, or behavior that may harm the bot, its infrastructure, or its users.
 
 ## 7. Changes to These Terms
 
@@ -91,7 +74,7 @@ Continued use of Shiloï Bot after updated terms are published constitutes accep
 
 ## 8. Contact
 
-For any questions, requests, or concerns regarding Shiloï Bot, its Terms of Service, or its Privacy Policy, you can contact the Shiloï Group team through the following Discord account:
+For any questions, requests, or concerns regarding Shiloï Bot, its Terms of Service, or its Privacy Policy, contact the Shiloï Group team:
 
 **Discord:** `@shino0.y`
 
