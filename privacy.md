@@ -1,8 +1,12 @@
----
-title: Privacy Policy
----
-
-# Shiloï Protect – Privacy Policy
+<div align="center">
+  <img
+    src="https://shiloigroup.github.io/Shiloi-Bot/assets/logo.png"
+    alt="Shiloi Protect Logo"
+    width="120"
+  />
+  <h1>SHILOÏ BOT</h1>
+  <h2>Privacy Policy</h2>
+</div>
 
 **Last updated: November 17, 2026**
 
