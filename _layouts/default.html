@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080808">
+  <title>{{ page.title }} | Shiloï Bot</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/logo.png' | relative_url }}"
+           alt="Shiloï Bot Logo">
+      <div>
+        <div class="brand-name">SHILOÏ BOT</div>
+        <div class="brand-subtitle">BY SHILOÏ GROUP</div>
+      </div>
+    </a>
+
+    <nav class="site-nav">
+      <a href="{{ '/terms' | relative_url }}"
+         {% if page.url contains 'terms' %}class="active"{% endif %}>
+        Terms of Service
+      </a>
+      <a href="{{ '/privacy' | relative_url }}"
+         {% if page.url contains 'privacy' %}class="active"{% endif %}>
+        Privacy Policy
+      </a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="eyebrow">SHILOÏ GROUP / LEGAL DOCUMENTATION</div>
+  <h1>{{ page.title }}</h1>
+  <p class="updated">Last updated: {{ page.last_updated | default: "November 17, 2026" }}</p>
+
+  {{ content }}
+</main>
+
+<footer class="site-footer">
+  © 2026 SHILOÏ GROUP · SHILOÏ BOT
+</footer>
+
+</body>
+</html>
