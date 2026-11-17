@@ -1,7 +1,10 @@
----
-title: Terms of Service
----
-
+<div align="center">
+  <img src="/Shiloi-Bot/assets/logo.png"
+       alt="Shiloi Protect Logo"
+       width="120">
+  <h1>SHILOÏ PROTECT</h1>
+  <p>Terms of Service</p>
+</div>
 # Shiloï Protect – Terms of Service
 
 **Last updated: November 17, 2026**
