@@ -2,7 +2,7 @@
   <img
     src="https://shiloigroup.github.io/Shiloi-Bot/assets/logo.png"
     alt="Shiloi Protect Logo"
-    width="120"
+    width="200"
   />
   <h1>SHILOÏ BOT</h1>
   <h2>Privacy Policy</h2>
