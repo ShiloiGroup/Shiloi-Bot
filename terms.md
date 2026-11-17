@@ -4,10 +4,9 @@
     alt="Shiloi Protect Logo"
     width="120"
   />
-  <h1>SHILOÏ PROTECT</h1>
-  <p>Terms of Service</p>
+  <h1>SHILOÏ BOT</h1>
+  <h2>Terms of Service</h2>
 </div>
-# Shiloï Protect – Terms of Service
 
 **Last updated: November 17, 2026**
 
