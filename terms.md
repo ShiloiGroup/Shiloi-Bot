@@ -91,7 +91,13 @@ Continued use of Shiloï Bot after updated terms are published constitutes accep
 
 ## 8. Contact
 
-For any questions, requests, or reports concerning Shiloï Bot, please contact the project team through its official Discord server.
+For any questions, requests, or concerns regarding Shiloï Bot, its Terms of Service, or its Privacy Policy, you can contact the Shiloï Group team through the following Discord account:
+
+**Discord:** `@shino0.y`
+
+**Organization:** Shiloï Group
+
+Please include a brief description of your request when contacting us.
 
 ---
 
