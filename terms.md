@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="/Shiloi-Bot/assets/logo.png"
+       alt="Shiloi Protect Logo"
+       width="120">
+  <h1>SHILOÏ PROTECT</h1>
+  <p>Terms of Service</p>
+</div>
 ---
 title: Terms of Service
 ---
