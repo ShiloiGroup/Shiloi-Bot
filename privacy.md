@@ -1,7 +1,7 @@
 <div align="center">
   <img
     src="https://shiloigroup.github.io/Shiloi-Bot/assets/logo.png"
-    alt="Shiloi Protect Logo"
+    alt="Shiloi Bot Logo"
     width="200"
   />
   <h1>SHILOÏ BOT</h1>
@@ -10,13 +10,13 @@
 
 **Last updated: November 17, 2026**
 
-This Privacy Policy explains how **Shiloï Protect** collects, processes, stores, and uses information when you interact with the bot or use it on a Discord server.
+This Privacy Policy explains how **Shiloï Bot** collects, processes, stores, and uses information when you interact with the bot or use it on a Discord server.
 
-By using Shiloï Protect, you acknowledge that you have read this Privacy Policy.
+By using Shiloï Bot, you acknowledge that you have read this Privacy Policy.
 
 ## 1. Information We Collect
 
-Shiloï Protect may collect and process the following categories of information, depending on the features enabled on a server:
+Shiloï Bot may collect and process the following categories of information, depending on the features enabled on a server:
 
 ### Discord Information
 - Discord User IDs.
@@ -54,7 +54,7 @@ Collected information may be used to:
 - Maintain, troubleshoot, and improve the service.
 - Protect the bot, its infrastructure, and its users.
 
-We do not intend to use collected information for purposes unrelated to the operation of Shiloï Protect.
+We do not intend to use collected information for purposes unrelated to the operation of Shiloï Bot.
 
 ## 3. Data Storage and Security
 
@@ -66,7 +66,7 @@ However, no online service or storage system can be guaranteed to be completely 
 
 ## 4. Data Sharing and Third-Party Services
 
-Shiloï Protect may rely on third-party services to operate, such as:
+Shiloï Bot may rely on third-party services to operate, such as:
 - Discord, for communication and bot functionality.
 - Hosting providers, to run the bot and store its data.
 - External services required for specific integrations or features.
@@ -94,19 +94,19 @@ Depending on applicable data protection laws, you may have the right to:
 - Object to or request restriction of certain processing activities.
 - Request information about how your data is used.
 
-To submit a privacy-related request, please contact the Shiloï Protect team through its official Discord server.
+To submit a privacy-related request, please contact the Shiloï Bot team through its official Discord server.
 
 We may need to verify your identity before processing a request.
 
 ## 7. Children's Privacy
 
-Shiloï Protect is not specifically designed to collect personal information from children.
+Shiloï Bot is not specifically designed to collect personal information from children.
 
 Users must comply with Discord's minimum age requirements and applicable laws when using Discord and its services.
 
 ## 8. Changes to This Privacy Policy
 
-This Privacy Policy may be updated to reflect changes to Shiloï Protect, its features, its data practices, or applicable legal requirements.
+This Privacy Policy may be updated to reflect changes to Shiloï Bot, its features, its data practices, or applicable legal requirements.
 
 Any updated version will be published on the official Privacy Policy page.
 
@@ -114,8 +114,8 @@ Continued use of the bot after changes are published constitutes acceptance of t
 
 ## 9. Contact
 
-For questions, concerns, or requests regarding this Privacy Policy or the processing of personal information, please contact the Shiloï Protect team through its official Discord server.
+For questions, concerns, or requests regarding this Privacy Policy or the processing of personal information, please contact the Shiloï Bot team through its official Discord server.
 
 ---
 
-**By using Shiloï Protect, you acknowledge that you have read this Privacy Policy.**
+**By using Shiloï Bot, you acknowledge that you have read this Privacy Policy.**
