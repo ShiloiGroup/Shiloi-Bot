@@ -1,15 +1,8 @@
-<div align="center">
-  <img
-    src="https://shiloigroup.github.io/Shiloi-Bot/assets/logo.png"
-    alt="Shiloi Bot Logo"
-    width="200"
-  />
-  <h1>SHILOÏ BOT</h1>
-  <h2>Privacy Policy</h2>
-</div>
-
-**Last updated: November 17, 2026**
-
+---
+layout: default
+title: Privacy Policy
+last_updated: November 17, 2026
+---
 This Privacy Policy explains how **Shiloï Bot** collects, processes, stores, and uses information when you interact with the bot or use it on a Discord server.
 
 By using Shiloï Bot, you acknowledge that you have read this Privacy Policy.
@@ -66,10 +59,7 @@ However, no online service or storage system can be guaranteed to be completely 
 
 ## 4. Data Sharing and Third-Party Services
 
-Shiloï Bot may rely on third-party services to operate, such as:
-- Discord, for communication and bot functionality.
-- Hosting providers, to run the bot and store its data.
-- External services required for specific integrations or features.
+Shiloï Bot may rely on third-party services to operate, such as Discord, hosting providers, and external services required for specific integrations or features.
 
 Information may be processed by these providers when necessary to deliver the service.
 
@@ -87,14 +77,11 @@ Where appropriate, information may be deleted or anonymized when it is no longer
 
 ## 6. User Rights and Data Requests
 
-Depending on applicable data protection laws, you may have the right to:
-- Request access to your personal information.
-- Request correction of inaccurate information.
-- Request deletion of your personal information.
-- Object to or request restriction of certain processing activities.
-- Request information about how your data is used.
+Depending on applicable data protection laws, you may have the right to request access to, correction or deletion of your personal information, object to or request restriction of certain processing activities, and request information about how your data is used.
 
-To submit a privacy-related request, please contact the Shiloï Bot team through its official Discord server.
+To submit a privacy-related request, contact the Shiloï Group team through:
+
+**Discord:** `@shino0.y`
 
 We may need to verify your identity before processing a request.
 
@@ -114,7 +101,7 @@ Continued use of the bot after changes are published constitutes acceptance of t
 
 ## 9. Contact
 
-For any questions, requests, or concerns regarding Shiloï Bot, its Terms of Service, or its Privacy Policy, you can contact the Shiloï Group team through the following Discord account:
+For any questions, requests, or concerns regarding Shiloï Bot, its Terms of Service, or its Privacy Policy, contact:
 
 **Discord:** `@shino0.y`
 
