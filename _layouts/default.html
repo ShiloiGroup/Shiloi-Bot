@@ -1,50 +1,30 @@
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#080808">
-  <title>{{ page.title }} | Shiloï Bot</title>
+  <title>{{ page.title }} | Shiloï Group</title>
+  <link rel="icon" href="{{ '/assets/logo.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <script src="{{ '/assets/language.js' | relative_url }}" defer></script>
 </head>
 <body>
-
-<header class="site-header">
-  <div class="header-inner">
-    <a class="brand" href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/logo.png' | relative_url }}"
-           alt="Shiloï Bot Logo">
-      <div>
-        <div class="brand-name">SHILOÏ BOT</div>
-        <div class="brand-subtitle">BY SHILOÏ GROUP</div>
-      </div>
-    </a>
-
-    <nav class="site-nav">
-      <a href="{{ '/terms' | relative_url }}"
-         {% if page.url contains 'terms' %}class="active"{% endif %}>
-        Terms of Service
-      </a>
-      <a href="{{ '/privacy' | relative_url }}"
-         {% if page.url contains 'privacy' %}class="active"{% endif %}>
-        Privacy Policy
-      </a>
-    </nav>
-  </div>
-</header>
-
+<header class="site-header"><div class="header-inner">
+  <a class="brand" href="{{ '/' | relative_url }}"><img src="{{ '/assets/logo.png' | relative_url }}" alt="Shiloï Group logo"><span><strong>SHILOÏ GROUP</strong><small>OFFICIAL WEBSITE</small></span></a>
+  <nav class="site-nav" aria-label="Main navigation">
+    <a href="{{ '/' | relative_url }}" data-i18n="nav_home">Accueil</a>
+    <a href="{{ '/discord/' | relative_url }}" data-i18n="nav_discord">Discord</a>
+    <a href="{{ '/roblox/' | relative_url }}" data-i18n="nav_roblox">Roblox</a>
+    <a href="{{ '/about/' | relative_url }}" data-i18n="nav_about">À propos</a>
+  </nav>
+  <div class="language-switch" aria-label="Language selector"><button type="button" data-lang="fr" class="selected" aria-pressed="true">FR</button><span>/</span><button type="button" data-lang="en" aria-pressed="false">EN</button></div>
+</div></header>
 <main>
   <div class="eyebrow">SHILOÏ GROUP / LEGAL DOCUMENTATION</div>
   <h1>{{ page.title }}</h1>
   <p class="updated">Last updated: {{ page.last_updated | default: "November 17, 2026" }}</p>
-
   {{ content }}
 </main>
-
-<footer class="site-footer">
-  © 2026 SHILOÏ GROUP · SHILOÏ BOT
-</footer>
-
-</body>
-</html>
+<footer class="site-footer"><span>© 2026 SHILOÏ GROUP</span><div><a href="{{ '/terms' | relative_url }}" data-i18n="terms">Conditions d’utilisation</a><a href="{{ '/privacy' | relative_url }}" data-i18n="privacy">Confidentialité</a><a href="{{ '/' | relative_url }}" data-i18n="nav_home">Accueil</a></div></footer>
+</body></html>
