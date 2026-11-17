@@ -114,7 +114,13 @@ Continued use of the bot after changes are published constitutes acceptance of t
 
 ## 9. Contact
 
-For questions, concerns, or requests regarding this Privacy Policy or the processing of personal information, please contact the Shiloï Bot team through its official Discord server.
+For any questions, requests, or concerns regarding Shiloï Bot, its Terms of Service, or its Privacy Policy, you can contact the Shiloï Group team through the following Discord account:
+
+**Discord:** `@shino0.y`
+
+**Organization:** Shiloï Group
+
+Please include a brief description of your request when contacting us.
 
 ---
 
